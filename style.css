@@ -1,0 +1,22 @@
+body{
+    background-color: lavenderblush;
+    font-family: cursive;
+    text-align: justify;
+    }
+h2{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+h3{
+     color: green;
+}
+h4{
+    color: red;
+}
+img{
+    align-items: center;
+}
+a{
+    color: purple;
+}
